@@ -52,7 +52,3 @@ El área es 50
 ```
 
 Comparte tu respuesta [en este enlace](https://foro.makeitreal.camp/t/respuestas-ejercicio-5-python/642)
-
-## Ejercicios
-
-* [Día 1](dia-1.md)
