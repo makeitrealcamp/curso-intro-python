@@ -1,4 +1,4 @@
-# Ejercicios día 3
+# Ejercicios día 4
 
 Recuerda que puedes hacer preguntas en el [Foro de Make It Real](https://foro.makeitreal.camp/c/curso-python-ene-2021/7).
 
